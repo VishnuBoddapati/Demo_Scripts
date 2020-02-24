@@ -1,0 +1,117 @@
+UNIX File System Architecture
+Boot Block
+Super Block
+Inode Block
+Data Block
+File System of UNIX
+Ordinary Files
+Directory Files
+Device Files
+The Structure of UNIX File system
+Different UNIX Commands
+pwd, who, whoami
+exit, date, cal, exit, banner
+Links
+Hard Link
+Soft link or Symbolic Link
+Unlink
+Complex Filters
+tr, comm., tee, sed, nl
+Working with Files
+cat, touch, rm
+cp, mv, ln, wc
+Working with Directories
+mkdir, cd, rmdir, rm
+Displaying Files
+ls, ls with options
+Simple Filters
+pg, more, less, head, tail, paste, cut, sort
+Zip Files
+gzip, gunzip, zcat, compress
+Uncompress, pack, unpack and Pcat
+Printing Files
+lp, cancel
+Finding Files
+find, locate etc.,
+Input and Output Redirection
+Redirecting Output
+Redirecting Input
+Standard error
+Shell Meta Characters
+File substitution
+I/O redirection
+Process Execution
+Quoting meta characters
+Positional parameters
+Special Parameters
+More Filters
+grep, grep with options
+fgrep, egrep
+Regular Expressions and Patterns
+What is Pattern?
+Usage of regular expression
+Different types of patterns
+How C programs are useful for solving problems in UNIX
+UNIX Commands
+Uniq
+Diff
+cmp
+Backup Utilities
+tar, cpio
+Piping
+Usage of piping
+Piping with filters
+File Permissions
+chmod, chown, chgrp, umask
+Communication Commands
+write, wall, mail, mail with options
+Networking commands
+telnet, ftp, rlogin, finger, etc..
+Disk Utilities
+df, du, mount, unmount
+Job Control
+Foreground jobs
+Background jobs
+Killing jobs
+Nohup
+Prcoess Status
+Ps
+Kill
+Pkill
+Job scheduling
+At
+Crontab
+Batch
+ed, ex and vi editors
+Command mode
+Insert mode
+Ex command mode
+Shell Scripting
+What is shell scripting?
+Importance of shell scripting
+Different types of shells
+Creating Shell script
+Making shell script executable
+Shell Input and Output
+echo, print, read
+Backslash character constants aliases and History concept variables
+What is a variable?
+System defined variables
+Environment Variables
+User defined variables
+Constant variables
+Local and Global variables
+Special Variables
+Comments
+Operators
+Arithmetic Operators
+Relational Operators
+Relational ASCII operators
+Logical Operators
+Assignment Operators
+Flow Control Structure
+If, if….else
+If… elif
+Case
+Looping
+while, until, for, break, continue
